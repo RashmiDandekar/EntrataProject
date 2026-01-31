@@ -1,0 +1,4 @@
+runners\Runner.class
+testCases\CheckingIfSubMenuRedirectsToRespectivePage.class
+testCases\CheckingIfClickingOnLogoRedirectsToHomePage.class
+testCases\CheckIfDemoFormIsGettingFilled.class

@@ -1,0 +1,6 @@
+pageObjects\HomePageObjects.class
+utilities\ReportManager.class
+utilities\BasePage.class
+pages\SchedulingDemoPage.class
+pageObjects\SchedulingDemoPageObjects.class
+pages\HomePage.class
